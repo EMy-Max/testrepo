@@ -1,0 +1,39 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;   
+}
+body{
+    background-image: url("asset/xander-ashwell-bhTjAUHHvSg-unsplash.jpg");
+    background-position: top;
+}
+.form{
+    box-shadow: 20px 5px 5px cornflowerblue;
+    box-sizing: border-box;
+    border-radius: 20px;
+    width: 400px;
+    min-width: max-content;
+    padding: 20px 30px;
+    margin: 40px auto;
+    font-size: large;       
+}
+.calc{
+    box-shadow: 20px 5px 5px rgb(47, 89, 163);
+}
+p{
+    font-size: large;
+    text-align: center;
+
+}
+button{
+    background-color: blue;
+    color: aliceblue;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 25px;
+    font-size: medium; 
+}
+button:hover{
+    background-color: rgb(17, 4, 53);
+    color: rgb(194, 221, 230);
+    width: 110px;
+     
+}
